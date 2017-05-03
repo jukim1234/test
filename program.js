@@ -1,4 +1,4 @@
-document.writeln('Hello, world! OOP Game<BR>');
+﻿document.writeln('Hello, world! OOP Game <BR>');
 
 
 let person = new Object();
